@@ -99,9 +99,3 @@ Este proyecto es una aplicación Spring Boot que permite realizar cambios de mon
 
 - JWT obligatorio.
 - Expiración del token: 1 hora.
-
-# 👨‍💻 Autores
-
-- Desarrollado por el mejor Spring Dev 🤖🔨 y ChatGPT Spring Boot Pro 🚀
-
-# 🔥 ¡Correlo, pruébalo y rompe el mercado de divisas! 😎
