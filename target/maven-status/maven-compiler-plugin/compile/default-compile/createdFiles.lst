@@ -1,0 +1,3 @@
+com\example\CurrencyExchangeAppApplication.class
+com\example\config\SecurityConfig.class
+com\example\config\JwtUtil.class
